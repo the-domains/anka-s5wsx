@@ -1,0 +1,14 @@
+layout_spectrum: 0.8731657944153994
+typography_spectrum: 0.07606681459583342
+color:
+  brandStrength: 0.6933145150542259
+  lightness: 0.4651088088285178
+  saturation: 0.0005289518740028143
+  rhythmicContrast: 0.48190326942130923
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: anka
